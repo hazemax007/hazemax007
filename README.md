@@ -15,8 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hazem-ben-salem-78a387159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem-ben-salem-78a387159" height="30" width="40" /></a>
-<a href="https://instagram.com/hazembensalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazembensalem" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hazembensalem77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hazembensalem77" height="30" width="40" /></a>
 </p>
 
 <br><br>
